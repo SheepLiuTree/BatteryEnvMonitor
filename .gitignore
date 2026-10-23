@@ -1,0 +1,21 @@
+# Keil MDK 编译产物
+Objects/
+Listings/
+OBJ/
+*.o
+*.d
+*.crf
+*.lst
+*.htm
+*.dep
+*.iex
+*.axf
+*.lnp
+*.map
+
+# Keil 界面布局缓存
+*.uvguix.*
+
+# 调试器日志
+JLinkLog.txt
+*.jlink
